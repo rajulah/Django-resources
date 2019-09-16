@@ -16,7 +16,6 @@
   - [Community](#community)
   - [Conferences](#conferences)
     - [YouTube Channels](#conference-youtube-channels)
-  - [Meetups](#meetups)
   - [Podcasts](#podcasts)
 - [Third-Party Packages](#third-party-packages)
 - [Tutorials](#tutorials)
@@ -32,7 +31,6 @@
   - [DRF Boilerplate](#drf-boilerplate)
   - [Open Source Apps](#drf-open-source-apps)
 - [Books](#books)
-- [Hosting](#hosting)
 - [Courses](#courses)
 - [Videos](#videos)
   - [Free Videos](#free-videos)
@@ -86,10 +84,6 @@
 - [EuroPython](https://www.youtube.com/user/PythonItalia)
 - [PyCon Australia](https://www.youtube.com/user/PyConAU)
 - [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos)
-
-### Meetups
-
-- [Meetups](https://www.meetup.com/topics/django/all/) - 400+ Meetup groups in 65 countries.
 
 ### Podcasts
 
@@ -175,7 +169,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
 - [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
 - [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
-- [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
+- [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)        "
 - [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
 
 ## Boilerplate
@@ -236,25 +230,6 @@ _The most popular way to build web APIs with Django._
 - [DRF Blog](https://github.com/wsvincent/drf-blog-api) - Basic Blog API
 - [ECGC](https://github.com/flowerncsu/ecgc-2017) - Example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
 
-## Hosting
-
-### PaaS (Platforms-as-a-Service)
-
-- [Heroku](https://www.heroku.com/)
-- [PythonAnywhere](https://www.pythonanywhere.com/details/django_hosting)
-- [Divio](https://www.divio.com)
-- [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
-- [AWS CodeStar](https://aws.amazon.com/codestar/)
-- [Google Cloud](https://cloud.google.com/python/django/)
-- [Zeit Now](https://zeit.co/now)
-- [Dokku](http://dokku.viewdocs.io/dokku/)
-- [Render](https://render.com/)
-
-### IaaS (Infrastructure-as-a-Service)
-
-- [Digital Ocean](https://m.do.co/c/c0a588a8bb9e)
-- [Linode](https://www.linode.com/?r=70d00cc48f300a318474ba61cb7e7663b6e1531b)
-- [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 ## Books
 
@@ -313,8 +288,3 @@ _Django 1.11_
 - [Build a Real Estate App](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
 - [Ultimate Web Development Bootcamp](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
 
-### License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
